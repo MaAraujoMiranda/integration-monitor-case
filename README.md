@@ -32,10 +32,7 @@ O monitor foi criado para transformar isso em **informação visual e rastreáve
 ---
 
 ## Screenshots (em breve)
-Quando eu recuperar acesso ao projeto, vou adicionar imagens nesta pasta:
-- `screenshots/01-dashboard.png`
-- `screenshots/02-eventos.png`
-- `screenshots/03-detalhe.png`
+
 
 ---
 
